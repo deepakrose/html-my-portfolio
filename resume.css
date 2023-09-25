@@ -9,6 +9,21 @@ body {
     background-color: #CACACA;
 }
 
+.backHome {
+    color: #FF896B;
+    font-size: large;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 4px;
+    
+}
+
+.backHome:hover {
+    background-color: #323232;
+    color: #CACACA;
+
+}
 
 .firstHalf {
     width: 30%;
@@ -18,7 +33,6 @@ body {
     text-align: center;
     background-color: #323232;
     color: white;
-
 }
 
 span {
