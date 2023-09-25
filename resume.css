@@ -16,10 +16,9 @@ body {
     border-radius: 5px;
     padding: 5px;
     margin: 4px;
-    
 }
 
-.backHome:hover {
+.backHome:hover{
     background-color: #323232;
     color: #CACACA;
 
