@@ -12,6 +12,13 @@ body {
 .backHome {
     border-radius: 5px;    
     padding: 5px;
+    color: #FF896B;
+    font-size: large;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 4px;
+    font-size: large;
 }
 
 .backMe {
