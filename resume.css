@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 100%;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    background-color: #CACACA;
+}
+
+
+.firstHalf {
+    width: 30%;
+    float: left;
+    background-color: #CACACA;
+    border: 2px solid red;
+    text-align: center;
+    background-color: #323232;
+    color: white;
+
+}
+
+span {
+    font-weight: lighter;
+    color: white;
+}
+
+
+.secondHalf {
+    width: 70%;
+    float: right;
+    border: 2px solid red;
+    padding: 1vw;
+    background-color:#323232;
+    color: white;
+
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+
+th{
+    color: orangered;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    color: orangered;
+}
